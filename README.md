@@ -3,7 +3,7 @@
 This small repo is a small script that will install and update a proper base system for data science and daily living on Ubuntu 16.04, including:
 
 * R and Rstudio
-* Python 3 (with pip3 venv and some libraries for proper installation) and spyder
+* Python 3 tools (with pip3 venv and some libraries for proper installation) and spyder
 * Chrome
 * VLC
 
