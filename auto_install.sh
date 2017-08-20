@@ -10,7 +10,7 @@ sudo apt-get install -y r-base r-base-dev \
                      vlc
 sudo apt install -y gdebi
 sudo gdebi -n rstudio.deb \
-                     chrome.deb \
+              chrome.deb \
 pip3 install --upgrade pip
 
 
