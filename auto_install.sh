@@ -7,5 +7,7 @@ sudo apt install -y google-chrome-stable_current_amd64.deb \
                      rstudio-xenial-1.0.153-amd64.deb \
                      r-base r-base-dev \
                      python3-pip python3-venv\
-                     build-essential libssl-dev libffi-dev python-dev \
-                     
+                     build-essential libssl-dev libffi-dev python-dev
+pip3 install --upgrade pip
+pip3 install spyder
+
