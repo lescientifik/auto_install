@@ -12,5 +12,7 @@ sudo apt install -y gdebi
 sudo gdebi -n rstudio.deb \
               chrome.deb \
 pip3 install --upgrade pip
+rm chrome.deb
+rm rstudio.deb
 
 
