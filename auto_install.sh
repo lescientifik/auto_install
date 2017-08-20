@@ -7,8 +7,7 @@ wget https://download1.rstudio.org/rstudio-xenial-1.0.153-amd64.deb -O rstudio.d
 sudo apt-get install -y r-base r-base-dev \
                      python3-pip python3-venv\
                      build-essential libssl-dev libffi-dev python-dev \
-                     vlc
-sudo apt install -y gdebi
+                     vlc gdebi git
 sudo gdebi -n rstudio.deb \
               chrome.deb \
 pip3 install --upgrade pip
